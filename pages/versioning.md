@@ -76,7 +76,7 @@ backgroundSize: contain
 * Label pour un commit
 * Tags spéciaux 
   * HEAD
-  * <branch>
+  * \<branch\>
 
 ---
 layout: image-right
