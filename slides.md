@@ -24,7 +24,7 @@ mdc: true
 
 # Formation DevOps
 
-## Société Générale Algérie - Décembre 2024 - Paris
+## SGA - Décembre 2024 - Paris
 
 ---
 layout: about-me
