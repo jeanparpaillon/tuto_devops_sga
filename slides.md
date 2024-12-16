@@ -43,18 +43,18 @@ social1: https://linkedin.com/in/jeanparpaillon
 src: ./pages/versioning.md
 ---
 
----
-src: ./pages/ci.md
----
+<!-- --- -->
+# src: ./pages/ci.md
+<!-- --- -->
 
----
-src: ./pages/intro-artifactory.md
----
+<!-- --- -->
+# src: ./pages/intro-artifactory.md
+<!-- --- -->
 
----
-src: ./pages/configuration.md
----
+<!-- --- -->
+# src: ./pages/configuration.md
+<!-- --- -->
 
----
-src: ./pages/advanced-artifactory.md
---- 
+<!-- --- -->
+# src: ./pages/advanced-artifactory.md
+<!-- ---  -->
