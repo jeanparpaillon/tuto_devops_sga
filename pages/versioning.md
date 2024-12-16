@@ -61,6 +61,8 @@ backgroundSize: contain
 * Point de départ
 * Ensemble de commits
 
+* Branche spéciale : main / master
+
 ---
 layout: image-right
 image: /tags.png
@@ -72,6 +74,9 @@ backgroundSize: contain
 ## Tag
 
 * Label pour un commit
+* Tags spéciaux 
+  * HEAD
+  * <branch>
 
 ---
 layout: image-right
@@ -81,7 +86,7 @@ backgroundSize: contain
 
 # Concepts de base
 
-## Merge
+## Fusion (merge)
 
 * Intègre les changements d'une branche externe
 
