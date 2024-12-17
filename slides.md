@@ -39,13 +39,13 @@ line2: Innovation
 social1: https://linkedin.com/in/jeanparpaillon
 ---
 
----
-src: ./pages/versioning.md
----
+<!-- --- -->
+<!-- src: ./pages/versioning.md -->
+<!-- --- -->
 
-<!-- --- -->
-# src: ./pages/ci.md
-<!-- --- -->
+---
+src: ./pages/ci.md
+---
 
 <!-- --- -->
 # src: ./pages/intro-artifactory.md
